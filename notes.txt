@@ -1,0 +1,9 @@
+app :
+- render NavLink from menu
+- define routes from menu
+
+home:
+- get config from envi var, variable name must start with REACT_APP_
+
+page01:
+- ...
