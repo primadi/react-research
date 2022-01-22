@@ -1,4 +1,4 @@
-export default function Home(): JSX.Element {
+const Home = () => {
     const UserName = process.env.REACT_APP_USER_NAME
 
     return (
@@ -8,3 +8,5 @@ export default function Home(): JSX.Element {
         </>
     )
 }
+
+export default Home

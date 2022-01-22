@@ -6,4 +6,15 @@ home:
 - get config from envi var, variable name must start with REACT_APP_
 
 page01:
-- ...
+- learn useState, memo, useMemo, and useCallback...
+- reff:
+    - https://learning.oreilly.com/library/view/react-17-design/9781800560444/
+
+page02:
+- learn swr (stale while revalidate), miragejs (mocking server)
+- reff:
+    - https://swr.vercel.app/
+    - https://miragejs.com/
+- install:
+    - yarn add swr
+    - yarn add --dev miragejs
